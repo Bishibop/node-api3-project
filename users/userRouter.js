@@ -1,3 +1,4 @@
+const db = require('./userDb');
 const express = require('express');
 
 const router = express.Router();
